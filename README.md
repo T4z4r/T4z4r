@@ -10,7 +10,7 @@
 - 🌱 Learning more about: Penetration testing, AI-assisted development, and DevOps automation
 - 💬 Ask me about: Laravel, React, Flutter, Python, Ethical Hacking, Secure API Design
 - 🛠️ Tech Focus: Writing clean code, security-first development, and open-source collaboration
-- 📫 Reach me at: [your.email@example.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me at: [baltazarchristian49@gmail.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
